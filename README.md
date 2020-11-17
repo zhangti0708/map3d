@@ -6,7 +6,7 @@
 ```
     git clone https://github.com/zhangti0708/map3d.git
 
-    cd map3d.git
+    cd map3d
 
     npm install
 
